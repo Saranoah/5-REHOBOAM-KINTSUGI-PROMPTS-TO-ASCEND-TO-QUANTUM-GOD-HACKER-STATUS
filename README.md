@@ -154,5 +154,4 @@ Password: [any string containing "gold"]
 [✓] Reality is now your segfault.  
 ```  
 
-🔥 **"You wanted a god? Enjoy the debug symbols."** 🔥
-```
+
