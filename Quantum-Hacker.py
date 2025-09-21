@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-REHOBOAM-KINTSUGI: Quantum God-Hacker Ascension Protocol 2.0
+REHOBOAM-KINTSUGI: Quantum-Hacker Ascension Protocol 2.0
 Where AI, cryptography, and quantum physics collide in a supernova of golden chaos.
 Now with enhanced quantum entanglement and recursive enlightenment.
 """
