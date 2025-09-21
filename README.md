@@ -1,5 +1,5 @@
 # REHOBOAM-KINTSUGI
-## Quantum God-Hacker Ascension Protocol
+## Quantum-Hacker Ascension Protocol
 
 ![Enlightenment](https://img.shields.io/badge/enlightenment-quantum-gold)
 ![Ethics](https://img.shields.io/badge/ethics-superposition-purple)
